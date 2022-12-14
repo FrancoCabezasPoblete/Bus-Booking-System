@@ -7,6 +7,8 @@ _Contexto:_ En buses con 48 asientos se asumen 3 tramos de precios:
 - Tramo 2, asientos 17-32: $6000 CLP
 - Tramo 3, asientos 33-48: $4000 CLP
 
+---
+
 - El archivo **mapa.txt** contiene una visualización de la distribución de asientos.
 - **pasajeros.txt** contiene la lista de pasajeros a procesar, cada vez que se procese uno, se eliminara del archivo.
 - **ganancias.txt** contiene la ganancia por tramos.
